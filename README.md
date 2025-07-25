@@ -1,4 +1,5 @@
 <!DOCTYPE html> 
+<html lang="pt-BR">  
 <html lang="pt-BR"> 
 <head> 
     <meta charset="UTF-8"> 
@@ -10,7 +11,7 @@
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap'); 
                  
         body { 
-            font-family: 'Poppins', sans-serif; 
+            font-family: '', sans-serif; 
             background-color: #0a0a0a; 
             color: #ffffff; 
             scroll-behavior: smooth; 
