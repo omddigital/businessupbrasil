@@ -18,7 +18,7 @@
         } 
                  
         .gradient-bg { 
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); 
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%, #0f3460 100%); 
         } 
                  
         .btn-glow { 
@@ -40,7 +40,7 @@
                  
         .testimonial-card:hover { 
             transform: translateY(-5px); 
-            border-color: rgba(74, 222, 128, 0.5); 
+            border-color: rgba(100, 222, 128, 0.5); 
         } 
                  
         .pricing-card { 
@@ -62,7 +62,7 @@
                  
         .ai-feature-icon { 
             background: rgba(74, 222, 128, 0.1); 
-            border: 1px solid rgba(74, 222, 128, 0.3); 
+            border: 1px solid rgba(100, 222, 128, 0.3); 
         } 
     </style> 
 </head> 
